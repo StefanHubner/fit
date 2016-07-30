@@ -17,6 +17,7 @@
 
 #include "fit_buffer_encode.hpp"
 #include "fit_crc.hpp"
+#include "string.h"
 
 namespace fit
 {
